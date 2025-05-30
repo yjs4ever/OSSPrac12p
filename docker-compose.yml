@@ -5,4 +5,4 @@
 services: # 아래는 서비스 정의
   python-app: # services명
     build: . # Dockerfile의 경로
-    image: ${DOCKER_USR}/prac12w
+    image: web
